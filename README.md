@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chingu27/chingupartner/main/banner.png" alt="ChinguPartner Banner" width="100%" style="border-radius:12px;" />
+  <img src="https://res.cloudinary.com/djcljkkqd/image/upload/v1762936622/chinguBanner_qddbdr.png" alt="ChinguPartner Banner" width="100%" style="border-radius:12px;" />
 </p>
 
-<h1 align="center">🚀 ChinguPartner</h1>
+<h1 align="center">ChinguPartner</h1>
 <p align="center">
   <b>Collaborative Innovation from the <a href="https://chingu.ai" target="_blank">Chingu.ai</a> Ecosystem</b>
 </p>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **ChinguPartner** is a collaboration hub born from the **Chingu.ai** ecosystem — a long-term initiative dedicated to empowering small businesses and indie founders through **AI-driven automation** and **modern digital infrastructure**.
 
@@ -24,16 +24,16 @@ This space brings together developers, designers, and tech builders who want to 
 
 ---
 
-## 🧠 Core Pillars
-- 🤖 **AI-Powered Automation** — simplifying business workflows  
-- 🌐 **Omnichannel Connectivity** — seamless integration across chat, e-commerce, and web  
-- ⚙️ **Scalable Architecture** — built with Redis, Socket.io, and modular Node.js systems  
-- 💳 **Secure Transactions** — Midtrans & Tripay integration with webhook validation  
-- ☁️ **Modern Cloud Stack** — Next.js, Docker, Nginx, Cloudinary, and CI/CD  
+## Core Pillars
+- **AI-Powered Automation** — simplifying business workflows  
+- **Omnichannel Connectivity** — seamless integration across chat, e-commerce, and web  
+- **Scalable Architecture** — built with Redis, Socket.io, and modular Node.js systems  
+- **Secure Transactions** — Midtrans & Tripay integration with webhook validation  
+- **Modern Cloud Stack** — Next.js, Docker, Nginx, Cloudinary, and CI/CD  
 
 ---
 
-## 🧩 Tech Snapshot
+## Tech Snapshot
 | Domain | Stack |
 |:-------|:------|
 | Frontend | React.js, Next.js, TailwindCSS |
@@ -48,7 +48,7 @@ This space brings together developers, designers, and tech builders who want to 
 
 ---
 
-## 🤝 Collaborate With Us
+## Collaborate With Us
 We’re open to builders who are into:
 - Frontend (React / Next.js / UI Systems)  
 - Backend (Node.js / API Integration / Scaling)  
@@ -61,12 +61,12 @@ We’re open to builders who are into:
 2. Submit **Pull Requests** (for documentation or code improvements)  
 3. Help with **design, testing, or community building**
 
-> 💬 Collaboration requests are reviewed manually since the main codebase is private under Chingu.ai.  
+> Collaboration requests are reviewed manually since the main codebase is private under Chingu.ai.  
 > Contributors will get access upon approval.
 
 ---
 
-## 🌍 Vision
+## Vision
 > *“Build open. Learn fast. Grow together.”*  
 
 ChinguPartner isn’t just another project — it’s a community of innovators, driven by purpose and curiosity.  
@@ -74,10 +74,10 @@ We believe open collaboration can empower small teams to make a big impact with 
 
 ---
 
-## 💼 Connect
-👨‍💻 **Founder:** [Muhammad Ali Van Houten Junior](https://github.com/Chingu27)  
-🏗️ **Startup:** [Chingu.ai](https://chingu.ai)  
-💬 **Contact:** chingu.wardrobe.id@gmail.com  
+## Connect
+**Founder:** [Muhammad Ali Van Houten Junior](https://www.linkedin.com/in/muhammad-ali-van-houten-junior-4656a238b)  
+*Startup:** [Chingu.ai](https://chingupartner.pages.dev)  
+**Contact:** chingu.wardrobe.id@gmail.com  
 
 ---
 
