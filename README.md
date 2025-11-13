@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chingu27/chingupartner"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="status" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="license" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/built_with-love-ff69b4?style=flat-square" alt="love" /></a>
+  <a href="https://github.com/Chingu27/chingupartner">
+    <img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="status" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="license" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/built_with-love-ff69b4?style=flat-square" alt="love" />
+  </a>
 </p>
 
 ---
@@ -22,12 +28,13 @@
 **ChinguPartner** is a collaborative hub born from the **[Chingu.ai](https://chingu.ai)** ecosystem —  
 a long-term initiative empowering small businesses and indie founders through **AI-driven automation** and **modern digital infrastructure**.
 
-This project brings together developers, designers, and innovators who want to build **production-grade systems**,  
-contribute to real-world AI integrations, and shape the next generation of **accessible, open automation tools**.
+It brings together developers, designers, and innovators to build **production-grade systems**,  
+contribute to **real-world AI integrations**, and shape the next generation of **accessible automation tools**.
 
 ---
 
 ## Core Pillars
+
 - **AI-Powered Automation** — streamline and simplify business workflows  
 - **Omnichannel Connectivity** — connect chat, commerce, and web seamlessly  
 - **Scalable Architecture** — powered by Redis, Socket.io, and modular Node.js systems  
@@ -40,16 +47,19 @@ contribute to real-world AI integrations, and shape the next generation of **acc
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/API-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Payments-Midtrans%20%7C%20Tripay-0081CB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-OAuth%202.0%20%7C%20JWT-FF6B00?style=for-the-badge" />
+  <br/>
   <img src="https://img.shields.io/badge/AI-OpenAI%20API%20%7C%20Custom%20NLU-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Vercel-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
@@ -93,5 +103,5 @@ We believe open collaboration can empower small teams to make a big impact with 
 ---
 
 <p align="center">
-  Made with ⚡ by <a href="https://github.com/Chingu27">Chingu27</a> — Founder of <a href="https://chingu.ai">Chingu.ai</a>
+  Made with by <a href="https://github.com/Chingu27">Chingu27</a> — Founder of <a href="https://chingu.ai">Chingu.ai</a>
 </p>
