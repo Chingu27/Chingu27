@@ -6,7 +6,7 @@
 <h1 align="center">ChinguPartner</h1>
 
 <p align="center">
-  <b>Collaborative Innovation from the <a href="https://partner.pages.dev" target="_blank">Chingu.ai</a> Ecosystem</b>
+  <b>Collaborative Innovation from the <a href="https://chingupartner.pages.dev" target="_blank">Chingu.ai</a> Ecosystem</b>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## Overview
 
-**ChinguPartner** is a collaborative hub born from the **[Chingu.ai](https://chingu.ai)** ecosystem —  
+**ChinguPartner** is a collaborative hub born from the **[Chingu.ai](https://chingupartner.pages.dev)** ecosystem —  
 a long-term initiative empowering small businesses and indie founders through **AI-driven automation** and **modern digital infrastructure**.
 
 It brings together developers, designers, and innovators to build **production-grade systems**,  
