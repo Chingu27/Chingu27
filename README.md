@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="center">ChinguPartner</h1>
+
 <p align="center">
   <b>Collaborative Innovation from the <a href="https://chingu.ai" target="_blank">Chingu.ai</a> Ecosystem</b>
 </p>
@@ -18,65 +19,75 @@
 
 ## Overview
 
-**ChinguPartner** is a collaboration hub born from the **Chingu.ai** ecosystem — a long-term initiative dedicated to empowering small businesses and indie founders through **AI-driven automation** and **modern digital infrastructure**.
+**ChinguPartner** is a collaborative hub born from the **[Chingu.ai](https://chingu.ai)** ecosystem —  
+a long-term initiative empowering small businesses and indie founders through **AI-driven automation** and **modern digital infrastructure**.
 
-This space brings together developers, designers, and tech builders who want to contribute to real-world, production-grade systems and shape the next generation of accessible AI tools.
+This project brings together developers, designers, and innovators who want to build **production-grade systems**,  
+contribute to real-world AI integrations, and shape the next generation of **accessible, open automation tools**.
 
 ---
 
 ## Core Pillars
-- **AI-Powered Automation** — simplifying business workflows  
-- **Omnichannel Connectivity** — seamless integration across chat, e-commerce, and web  
-- **Scalable Architecture** — built with Redis, Socket.io, and modular Node.js systems  
+- **AI-Powered Automation** — streamline and simplify business workflows  
+- **Omnichannel Connectivity** — connect chat, commerce, and web seamlessly  
+- **Scalable Architecture** — powered by Redis, Socket.io, and modular Node.js systems  
 - **Secure Transactions** — Midtrans & Tripay integration with webhook validation  
-- **Modern Cloud Stack** — Next.js, Docker, Nginx, Cloudinary, and CI/CD  
+- **Modern Cloud Stack** — Next.js, Docker, Nginx, Cloudinary, and CI/CD pipelines  
 
 ---
 
-## Tech Snapshot
-| Domain | Stack |
-|:-------|:------|
-| Frontend | React.js, Next.js, TailwindCSS |
-| Backend | Node.js, Express.js |
-| Database | MongoDB (Mongoose) |
-| Cache / Queue | Redis |
-| Infra | Docker, Nginx, CI/CD |
-| Security | OAuth 2.0, JWT, API hardening |
-| Payments | Midtrans, Tripay |
-| Real-time | Socket.io |
-| AI / NLP | OpenAI API, custom NLU modules |
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-Midtrans%20%7C%20Tripay-0081CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-OAuth%202.0%20%7C%20JWT-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20API%20%7C%20Custom%20NLU-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Vercel-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
 ## Collaborate With Us
-We’re open to builders who are into:
+
+We’re looking for passionate builders in:
 - Frontend (React / Next.js / UI Systems)  
 - Backend (Node.js / API Integration / Scaling)  
 - AI & Automation Modules  
 - UI/UX Design  
-- System Security & Performance
+- System Security & Performance  
 
-**Ways to Contribute:**
-1. Discuss ideas or bugs via **Issues**  
-2. Submit **Pull Requests** (for documentation or code improvements)  
-3. Help with **design, testing, or community building**
+### How to Contribute
+1. Open a discussion or report issues via **GitHub Issues**  
+2. Submit **Pull Requests** for docs or code improvements  
+3. Help with **design, testing, or community engagement**
 
-> Collaboration requests are reviewed manually since the main codebase is private under Chingu.ai.  
-> Contributors will get access upon approval.
+> Collaboration requests are manually reviewed.  
+> The main codebase is private under **Chingu.ai**, and access is granted upon approval.
 
 ---
 
 ## Vision
-> *“Build open. Learn fast. Grow together.”*  
 
-ChinguPartner isn’t just another project — it’s a community of innovators, driven by purpose and curiosity.  
+> *“Build open. Learn fast. Grow together.”*
+
+**ChinguPartner** isn’t just another project — it’s a **community of innovators**.  
 We believe open collaboration can empower small teams to make a big impact with AI.
 
 ---
 
 ## Connect
+
 **Founder:** [Muhammad Ali Van Houten Junior](https://www.linkedin.com/in/muhammad-ali-van-houten-junior-4656a238b)  
-*Startup:** [Chingu.ai](https://chingupartner.pages.dev)  
+**Startup:** [Chingu.ai](https://chingupartner.pages.dev)  
 **Contact:** chingu.wardrobe.id@gmail.com  
 
 ---
