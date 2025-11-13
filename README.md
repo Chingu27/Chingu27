@@ -46,22 +46,62 @@ contribute to **real-world AI integrations**, and shape the next generation of *
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <a href="https://nodejs.org/en/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/API-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://redis.io/docs/latest/" target="_blank">
+    <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/Payments-Midtrans%20%7C%20Tripay-0081CB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Infrastructure-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-OAuth%202.0%20%7C%20JWT-FF6B00?style=for-the-badge" />
+  <a href="https://docs.midtrans.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Payments-Midtrans-0071BC?style=for-the-badge" />
+  </a>
+  <a href="https://tripay.co.id/developer" target="_blank">
+    <img src="https://img.shields.io/badge/Payments-Tripay-0081CB?style=for-the-badge" />
+  </a>
+  <a href="https://www.docker.com/resources/what-container/" target="_blank">
+    <img src="https://img.shields.io/badge/Infrastructure-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://nginx.org/en/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  </a>
+  <a href="https://oauth.net/2/" target="_blank">
+    <img src="https://img.shields.io/badge/Security-OAuth%202.0-FF6B00?style=for-the-badge" />
+  </a>
+  <a href="https://jwt.io/introduction" target="_blank">
+    <img src="https://img.shields.io/badge/Security-JWT-000000?style=for-the-badge" />
+  </a>
   <br/>
-  <img src="https://img.shields.io/badge/AI-OpenAI%20API%20%7C%20Custom%20NLU-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Vercel-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <a href="https://platform.openai.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/AI-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/AI-Custom%20NLU%20Modules-7E57C2?style=for-the-badge" />
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </p>
 
 ---
@@ -103,5 +143,5 @@ We believe open collaboration can empower small teams to make a big impact with 
 ---
 
 <p align="center">
-  Made with by <a href="https://www.linkedin.com/in/muhammad-ali-van-houten-junior-4656a238b">Zen</a> — Founder of <a href="https://chingupartner.pages.dev">Chingu.ai</a>
+  Made with ❤️ by <a href="https://www.linkedin.com/in/muhammad-ali-van-houten-junior-4656a238b">Zen</a> — Founder of <a href="https://chingupartner.pages.dev">Chingu.ai</a>
 </p>
