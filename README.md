@@ -6,7 +6,7 @@
 <h1 align="center">ChinguPartner</h1>
 
 <p align="center">
-  <b>Collaborative Innovation from the <a href="https://chingu.ai" target="_blank">Chingu.ai</a> Ecosystem</b>
+  <b>Collaborative Innovation from the <a href="https://partner.pages.dev" target="_blank">Chingu.ai</a> Ecosystem</b>
 </p>
 
 <p align="center">
@@ -103,5 +103,5 @@ We believe open collaboration can empower small teams to make a big impact with 
 ---
 
 <p align="center">
-  Made with by <a href="https://github.com/Chingu27">Chingu27</a> — Founder of <a href="https://chingu.ai">Chingu.ai</a>
+  Made with by <a href="https://www.linkedin.com/in/muhammad-ali-van-houten-junior-4656a238b">Zen</a> — Founder of <a href="https://chingupartner.pages.dev">Chingu.ai</a>
 </p>
