@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://res.cloudinary.com/djcljkkqd/image/upload/v1762937731/chinguBanner_tuully.png" alt="ChinguPartner Banner" width="100%" style="border-radius:12px;" />
+  <img src="https://res.cloudinary.com/djcljkkqd/image/upload/v1763643776/banner_update_lqpnnp.png" alt="ChinguPartner Banner" width="100%" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">ChinguPartner</h1>
