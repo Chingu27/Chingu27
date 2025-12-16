@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chingu27/chingupartner">
+  <a href="https://github.com/Chingu27">
     <img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="status" />
   </a>
   <a href="#">
