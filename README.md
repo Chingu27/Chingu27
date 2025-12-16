@@ -25,7 +25,7 @@
 
 ## Overview
 
-**ChinguPartner** is a collaborative hub born from the **[Chingu.ai](https://chingupartner.pages.dev)** ecosystem —  
+**ChinguPartner** is a collaborative hub born from the **[Chingu app](https://chinguapp.com)** ecosystem —  
 a long-term initiative empowering small businesses and indie founders through **AI-driven automation** and **modern digital infrastructure**.
 
 It brings together developers, designers, and innovators to build **production-grade systems**,  
