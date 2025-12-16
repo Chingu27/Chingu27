@@ -137,8 +137,8 @@ We believe open collaboration can empower small teams to make a big impact with 
 ## Connect
 
 **Founder:** [Muhammad Ali Van Houten Junior](https://www.linkedin.com/in/muhammad-ali-van-houten-junior-4656a238b)  
-**Startup:** [Chingu.ai](https://chingupartner.pages.dev)  
-**Contact:** chingu.wardrobe.id@gmail.com  
+**Startup:** [Chingu App](https://chinguapp.com)  
+**Contact:** chingu.wardrobe.id@gmail.com
 
 ---
 
