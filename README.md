@@ -6,7 +6,7 @@
 <h1 align="center">ChinguPartner</h1>
 
 <p align="center">
-  <b>Collaborative Innovation from the <a href="https://chingupartner.pages.dev" target="_blank">Chingu.ai</a> Ecosystem</b>
+  <b>Collaborative Innovation from the <a href="https://chinguapp.com" target="_blank">Chingu app</a> Ecosystem</b>
 </p>
 
 <p align="center">
